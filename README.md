@@ -7,3 +7,8 @@ Dans ce module, j'ai decouvert une introduction aux principes de la visualisatio
 2. Interpréter les caractéristiques du graphique afin d'identifier le (s) mécanisme (s) utilisé (s) par le **codeur** pour tromper le **décodeur**
 3. Analyser le graphique et utiliser les principes du travail d'Alberto Cairo pour expliquer en quoi le graphique est trompeur
 Créer un tracé radar afin de réfléchir à la complexité du graphique trompeur
+
+
+## Liens Utils
+* [Cliquez Ici Pour Voir Quelques Graphiqe Interéssants](https://mooctools.ai.umich.edu/multimeasure/424-visualization-wheel-practice/)
+* [Cliquez Ici Pour Voir DarkHouse](https://www.darkhorseanalytics.com/)
